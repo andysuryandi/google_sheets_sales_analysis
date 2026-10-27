@@ -26,6 +26,10 @@ Durchgeführte Schritte:
 
 Die ursprünglichen Daten bleiben in einem separaten Tabellenblatt erhalten.
 
+### Datenkontext
+
+Die im Datensatz verwendeten Kunden- und Mitarbeiternamen sind fiktiv. Die Daten werden im Rahmen eines Abschlussprojekts analysiert.
+
 ## Wichtigste Ergebnisse
 
 | Kennzahl | Ergebnis |
