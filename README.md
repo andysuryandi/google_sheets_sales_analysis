@@ -58,6 +58,17 @@ Die Ergebnisse beschreiben das untersuchte Quartal. Sie erlauben allein keine Au
 - Pivot-Tabellen
 - Linien-, Balken- und Streudiagramme sowie Histogramm
 
+## Visualisierungen
+
+### Umsatzentwicklung im ersten Quartal
+![Umsatz nach Monat](umsatz-monat.png)
+
+### Umsatz nach Vertriebsmitarbeiter
+![Umsatz nach Vertriebsmitarbeiter](umsatz-vertrieb.png)
+
+### Verteilung der Dealgrößen
+![Histogramm der Dealgrößen](deal-verteilung.png)
+
 ## Aufbau der Arbeitsmappe
 
 | Tabellenblatt | Inhalt |
