@@ -93,7 +93,7 @@ Vor einer öffentlichen Freigabe werden außerdem die Datenquelle, die Aufgabens
 
 ## Projektdatei
 
-[Arbeitsmappe herunterladen](PeakFlow — Suryandi Suryandi.xlsx)
+[Arbeitsmappe herunterladen](PeakFlow_Suryandi_Suryandi.xlsx)
 
 Die Analyse wurde mit Google Sheets erstellt. Der Excel-Export
 enthält Einschränkungen bei einigen Formeln und Pivot-Tabellen.
