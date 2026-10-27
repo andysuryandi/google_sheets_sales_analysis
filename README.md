@@ -61,13 +61,13 @@ Die Ergebnisse beschreiben das untersuchte Quartal. Sie erlauben allein keine Au
 ## Visualisierungen
 
 ### Umsatzentwicklung im ersten Quartal
-![Umsatz nach Monat](umsatz-monat.png)
+![Umsatz nach Monat](umsatz-monat.png.png)
 
 ### Umsatz nach Vertriebsmitarbeiter
-![Umsatz nach Vertriebsmitarbeiter](umsatz-vertrieb.png)
+![Umsatz nach Vertriebsmitarbeiter](umsatz-vertrieb.png.png)
 
 ### Verteilung der Dealgrößen
-![Histogramm der Dealgrößen](deal-verteilung.png)
+![Histogramm der Dealgrößen](deal-verteilung.png.png)
 
 ## Aufbau der Arbeitsmappe
 
