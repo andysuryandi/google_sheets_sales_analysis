@@ -91,6 +91,14 @@ Das Repository befindet sich im Aufbau. Screenshots und Projektdateien werden na
 
 Vor einer öffentlichen Freigabe werden außerdem die Datenquelle, die Aufgabenstellung und die Abgrenzung zwischen bereitgestellten Materialien und eigener Bearbeitung dokumentiert.
 
+## Projektdatei
+
+[Arbeitsmappe herunterladen](peakflow-sales-analysis.xlsx)
+
+Die Analyse wurde mit Google Sheets erstellt. Der Excel-Export
+enthält Einschränkungen bei einigen Formeln und Pivot-Tabellen.
+Eine vollständige Neuberechnung in Excel ist nicht bestätigt.
+
 ## Autor
 
 Suryandi Suryandi
