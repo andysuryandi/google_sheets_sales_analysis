@@ -87,9 +87,9 @@ Die Analyse wurde in Google Sheets erstellt. Ein XLSX-Export kann bei Google-She
 
 ## Projektstatus
 
-Das Repository befindet sich im Aufbau. Screenshots und Projektdateien werden nach Prüfung der Veröffentlichungsrechte ergänzt.
+Die Projektdatei und ausgewählte Visualisierungen sind im Repository enthalten. Die Analyse und ihre Ergebnisse sind dokumentiert.
 
-Vor einer öffentlichen Freigabe werden außerdem die Datenquelle, die Aufgabenstellung und die Abgrenzung zwischen bereitgestellten Materialien und eigener Bearbeitung dokumentiert.
+Die Arbeitsmappe wurde aus Google Sheets als XLSX exportiert. Eine vollständige Neuberechnung in Excel ist nicht bestätigt.
 
 ## Projektdatei
 
