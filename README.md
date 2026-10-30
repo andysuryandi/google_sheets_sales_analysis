@@ -60,14 +60,24 @@ Die Ergebnisse beschreiben das untersuchte Quartal. Sie erlauben allein keine Au
 
 ## Visualisierungen
 
-### Umsatzentwicklung im ersten Quartal
-![Umsatz nach Monat](umsatz-monat.png)
+Die drei Ansichten ergänzen sich: Der Mitarbeitervergleich zeigt die Umsatzverteilung im Team, der Monatsverlauf ordnet das Quartal zeitlich ein und das Histogramm macht die ungleiche Verteilung der Dealgrößen sichtbar.
 
 ### Umsatz nach Vertriebsmitarbeiter
-![Umsatz nach Vertriebsmitarbeiter](umsatz-vertrieb.png)
+![Absteigend sortiertes Balkendiagramm des Gesamtumsatzes nach Vertriebsmitarbeiter](umsatz-vertrieb.png)
+
+**Wer trägt den höchsten Umsatz bei?** Marcus Johnson führt die Umsatzrangliste an, gefolgt von Nina Petrov. Die sortierten horizontalen Balken erleichtern den direkten Vergleich. Gesamtumsatz allein erklärt jedoch weder Dealanzahl noch Dealgröße oder die Ursachen der Unterschiede.
+
+### Umsatzentwicklung im ersten Quartal
+![Liniendiagramm mit hohem Januarumsatz, Rückgang im Februar und leichtem Anstieg im März](umsatz-monat.png)
+
+**Wie verteilt sich der Umsatz über das Quartal?** Auf den umsatzstärksten Januar folgt ein deutlicher Rückgang im Februar und ein leichter Anstieg im März. Drei Monatswerte beschreiben dieses Quartal, belegen aber keinen langfristigen Trend.
 
 ### Verteilung der Dealgrößen
-![Histogramm der Dealgrößen](deal-verteilung.png)
+![Histogramm mit vielen Geschäften im unteren Größenbereich und wenigen großen Abschlüssen](deal-verteilung.png)
+
+**Warum reicht der Durchschnitt allein nicht aus?** Die meisten Geschäfte liegen im unteren Größenbereich; wenige große Abschlüsse bilden einen langen rechten Ausläufer. Das passt zum dokumentierten Unterschied zwischen Durchschnitt und Median. Die breite erste Klasse fasst viele Geschäfte zusammen und lässt Unterschiede innerhalb dieser Gruppe nicht erkennen.
+
+**Empfehlung für LinkedIn:** Das Balkendiagramm `umsatz-vertrieb.png` eignet sich unter den vorhandenen Bildern am besten als Einstieg: klare Rangfolge, gut vergleichbare Balken und eine unmittelbar erkennbare Aussage. Das Histogramm ergänzt die analytische Story zur Dealgröße. Alle drei Bilder sind unveränderte Tabellen-Screenshots; Tabellenränder und kleine Beschriftungen begrenzen die Lesbarkeit auf dem Smartphone.
 
 ## Aufbau der Arbeitsmappe
 
@@ -83,7 +93,24 @@ Die Ergebnisse beschreiben das untersuchte Quartal. Sie erlauben allein keine Au
 
 ## Hinweise zur Nutzung
 
-Die Analyse wurde in Google Sheets erstellt und die Arbeitsmappe als XLSX exportiert. Google-Sheets-spezifische Formeln und Pivot-Tabellen können in Excel abweichend funktionieren. Eine vollständige Neuberechnung in Excel wurde bisher nicht bestätigt.
+### Analyse in Google Sheets nachvollziehen
+
+Die Analyse wurde in Google Sheets erstellt. Für die Prüfung der ursprünglichen Formeln, Pivot-Tabellen und Diagramme ist die native Originaldatei die Referenz.
+
+**Offener Punkt:** Ein verifizierter, schreibgeschützter Link zur Google-Sheets-Originaldatei ist hier noch nicht hinterlegt. Bis dieser ergänzt ist, ist die direkte Prüfung des Originals über dieses Repository nicht möglich.
+
+Sobald der geprüfte Link verfügbar ist:
+
+1. Die Originaldatei mit Leseberechtigung öffnen. Für eigene Berechnungen bei erlaubter Kopierfunktion über **Datei → Kopie erstellen** eine eigene Kopie anlegen.
+2. Im Blatt `peakflow_q1_2025_dirty` die Rohdaten und im Blatt `Geschäfte` die dokumentierten Bereinigungsschritte sowie die Umsatzberechnung nachvollziehen.
+3. Die Kennzahlen in `Zusammenfassung` mit den oben dokumentierten Ergebnissen vergleichen. Danach `Pivot-Tabellen`, `Top-Performer` und die zugrunde liegenden Bereiche in `Diagramme` prüfen.
+4. Bei eigenen Änderungen Eingabedaten, Filter und verwendete Bereiche festhalten und prüfen, ob Kennzahlen, Pivot-Auswertungen und Diagramme die Änderungen korrekt übernehmen.
+
+### XLSX-Export und Grenzen der Excel-Nutzung
+
+Die unten verlinkte XLSX-Datei ist ein Export der Google-Sheets-Arbeitsmappe. Google-Sheets-spezifische Formeln und Pivot-Tabellen können in Excel abweichend funktionieren; auch Formatierungen und Diagrammdarstellungen können sich unterscheiden. Eine vollständige Neuberechnung in Excel wurde bisher nicht bestätigt. Angezeigte Werte allein bestätigen daher nicht, dass sämtliche Formeln und Auswertungen in Excel korrekt neu berechnet werden.
+
+Für eine Prüfung in Excel eine lokale Kopie öffnen, die Arbeitsmappe vollständig neu berechnen und Formelfehler, Pivot-Datenquellen sowie Diagrammbereiche kontrollieren. Anschließend die Ergebnisse mit den dokumentierten Kennzahlen und – sobald zugänglich – dem Google-Sheets-Original abgleichen. Dies ist eine Prüfanleitung, keine Bestätigung einer bereits erfolgreichen Excel-Validierung. Ein erneuter Import der XLSX-Datei in Google Sheets ersetzt nicht die Prüfung der nativen Originaldatei.
 
 ## Projektstatus
 
