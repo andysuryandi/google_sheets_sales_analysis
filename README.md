@@ -97,7 +97,7 @@ Die drei Ansichten ergänzen sich: Der Mitarbeitervergleich zeigt die Umsatzvert
 
 Die Analyse wurde in Google Sheets erstellt. Für die Prüfung der ursprünglichen Formeln, Pivot-Tabellen und Diagramme ist die native Originaldatei die Referenz.
 
-**Offener Punkt:** Ein verifizierter, schreibgeschützter Link zur Google-Sheets-Originaldatei ist hier noch nicht hinterlegt. Bis dieser ergänzt ist, ist die direkte Prüfung des Originals über dieses Repository nicht möglich.
+**Offener Punkt:** Der bereitgestellte Drive-Link verweist laut geprüften Dateimetadaten auf eine XLSX-Datei, nicht auf die native Google-Sheets-Originaldatei. Die XLSX-Datei ist für alle mit dem Link als Betrachter freigegeben und unten verlinkt. Ein verifizierter Link zum nativen Original fehlt weiterhin; dessen direkte Prüfung über dieses Repository ist daher noch nicht möglich.
 
 Sobald der geprüfte Link verfügbar ist:
 
@@ -119,6 +119,10 @@ Die Projektdatei und ausgewählte Visualisierungen sind im Repository enthalten.
 ## Projektdatei
 
 [Arbeitsmappe herunterladen](PeakFlow_Suryandi_Suryandi.xlsx)
+
+[XLSX-Datei in Google Drive ansehen (nur lesen)](https://docs.google.com/spreadsheets/d/1M0bi363SKWEj0b8jdihFS4Odjd2bsz6W/edit?usp=sharing&ouid=108980682801427952783&rtpof=true&sd=true)
+
+Dateityp und Freigabe des Drive-Links wurden am 30. Oktober 2026 geprüft. Die in Drive gespeicherte Datei heißt `PeakFlow — Suryandi Suryandi.xlsx`; ihre Inhaltsgleichheit mit dem Repository-Export wurde nicht geprüft.
 
 ## Autor
 
