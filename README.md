@@ -83,21 +83,15 @@ Die Ergebnisse beschreiben das untersuchte Quartal. Sie erlauben allein keine Au
 
 ## Hinweise zur Nutzung
 
-Die Analyse wurde in Google Sheets erstellt. Ein XLSX-Export kann bei Google-Sheets-spezifischen Formeln und Pivot-Tabellen abweichendes Verhalten zeigen. Eine vollständige Neuberechnung in Excel wurde bisher nicht bestätigt.
+Die Analyse wurde in Google Sheets erstellt und die Arbeitsmappe als XLSX exportiert. Google-Sheets-spezifische Formeln und Pivot-Tabellen können in Excel abweichend funktionieren. Eine vollständige Neuberechnung in Excel wurde bisher nicht bestätigt.
 
 ## Projektstatus
 
 Die Projektdatei und ausgewählte Visualisierungen sind im Repository enthalten. Die Analyse und ihre Ergebnisse sind dokumentiert.
 
-Die Arbeitsmappe wurde aus Google Sheets als XLSX exportiert. Eine vollständige Neuberechnung in Excel ist nicht bestätigt.
-
 ## Projektdatei
 
 [Arbeitsmappe herunterladen](PeakFlow_Suryandi_Suryandi.xlsx)
-
-Die Analyse wurde mit Google Sheets erstellt. Der Excel-Export
-enthält Einschränkungen bei einigen Formeln und Pivot-Tabellen.
-Eine vollständige Neuberechnung in Excel ist nicht bestätigt.
 
 ## Autor
 
