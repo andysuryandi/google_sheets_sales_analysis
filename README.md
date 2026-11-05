@@ -91,19 +91,6 @@ Die drei Ansichten ergänzen sich: Der Mitarbeitervergleich zeigt die Umsatzvert
 
 ## Hinweise zur Nutzung
 
-### Analyse in Google Sheets nachvollziehen
-
-Die Analyse wurde in Google Sheets erstellt. Für die Prüfung der ursprünglichen Formeln, Pivot-Tabellen und Diagramme ist die native Originaldatei die Referenz.
-
-**Offener Punkt:** Der bereitgestellte Drive-Link verweist laut geprüften Dateimetadaten auf eine XLSX-Datei, nicht auf die native Google-Sheets-Originaldatei. Die XLSX-Datei ist für alle mit dem Link als Betrachter freigegeben und unten verlinkt. Ein verifizierter Link zum nativen Original fehlt weiterhin; dessen direkte Prüfung über dieses Repository ist daher noch nicht möglich.
-
-Sobald der geprüfte Link verfügbar ist:
-
-1. Die Originaldatei mit Leseberechtigung öffnen. Für eigene Berechnungen bei erlaubter Kopierfunktion über **Datei → Kopie erstellen** eine eigene Kopie anlegen.
-2. Im Blatt `peakflow_q1_2025_dirty` die Rohdaten und im Blatt `Geschäfte` die dokumentierten Bereinigungsschritte sowie die Umsatzberechnung nachvollziehen.
-3. Die Kennzahlen in `Zusammenfassung` mit den oben dokumentierten Ergebnissen vergleichen. Danach `Pivot-Tabellen`, `Top-Performer` und die zugrunde liegenden Bereiche in `Diagramme` prüfen.
-4. Bei eigenen Änderungen Eingabedaten, Filter und verwendete Bereiche festhalten und prüfen, ob Kennzahlen, Pivot-Auswertungen und Diagramme die Änderungen korrekt übernehmen.
-
 ### XLSX-Export und Grenzen der Excel-Nutzung
 
 Die unten verlinkte XLSX-Datei ist ein Export der Google-Sheets-Arbeitsmappe. Google-Sheets-spezifische Formeln und Pivot-Tabellen können in Excel abweichend funktionieren; auch Formatierungen und Diagrammdarstellungen können sich unterscheiden. Eine vollständige Neuberechnung in Excel wurde bisher nicht bestätigt. Angezeigte Werte allein bestätigen daher nicht, dass sämtliche Formeln und Auswertungen in Excel korrekt neu berechnet werden.
