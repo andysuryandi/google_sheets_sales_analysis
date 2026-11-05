@@ -77,8 +77,6 @@ Die drei Ansichten ergänzen sich: Der Mitarbeitervergleich zeigt die Umsatzvert
 
 **Warum reicht der Durchschnitt allein nicht aus?** Die meisten Geschäfte liegen im unteren Größenbereich; wenige große Abschlüsse bilden einen langen rechten Ausläufer. Das passt zum dokumentierten Unterschied zwischen Durchschnitt und Median. Die breite erste Klasse fasst viele Geschäfte zusammen und lässt Unterschiede innerhalb dieser Gruppe nicht erkennen.
 
-**Empfehlung für LinkedIn:** Das Balkendiagramm `umsatz-vertrieb.png` eignet sich unter den vorhandenen Bildern am besten als Einstieg: klare Rangfolge, gut vergleichbare Balken und eine unmittelbar erkennbare Aussage. Das Histogramm ergänzt die analytische Story zur Dealgröße. Alle drei Bilder sind unveränderte Tabellen-Screenshots; Tabellenränder und kleine Beschriftungen begrenzen die Lesbarkeit auf dem Smartphone.
-
 ## Aufbau der Arbeitsmappe
 
 | Tabellenblatt | Inhalt |
